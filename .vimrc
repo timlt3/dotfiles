@@ -1,5 +1,5 @@
 set nocompatible
-colorscheme allomancer
+colorscheme neodark
 
 syntax on 
 filetype plugin indent on 
