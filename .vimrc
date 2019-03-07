@@ -1,5 +1,5 @@
 set nocompatible
-colorscheme elflord
+colorscheme allomancer
 
 syntax on 
 filetype plugin indent on 
