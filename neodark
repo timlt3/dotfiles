@@ -1,3 +1,4 @@
+"A slightly modified version of Neodark by Callum Howard https://github.com/CallumHoward
 set background=dark
 
 highlight clear
